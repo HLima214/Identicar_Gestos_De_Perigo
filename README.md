@@ -36,7 +36,9 @@ Infraestrutura equipada com:
 - **Receptores de sinal da pulseira**;
 - **Câmeras de alta precisão** para mapear áreas e identificar gestos de socorro.
 
-**Para vídeo de demonstração da câmera [clique aqui](https://youtu.be/BPJhwVmu840)**
+### **Para vídeo de demonstração da câmera [clique aqui](https://youtu.be/BPJhwVmu840)**
+
+### **Para acessar o código fonte [clique aqui](https://github.com/HLima214/Identicar_Gestos_De_Perigo/blob/main/main.py)**
 
 Essas torres funcionarão em **parceria com a Defesa Civil** e empresas de telecomunicação, que cederão parte de sua rede para a operação do sistema.
 
