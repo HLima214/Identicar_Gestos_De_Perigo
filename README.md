@@ -40,6 +40,33 @@ Infraestrutura equipada com:
 
 ### **Para acessar o código fonte [clique aqui](https://github.com/HLima214/Identicar_Gestos_De_Perigo/blob/main/main.py)**
 
+## Como iniciar o código
+Depois de clonar o repositório crie um ambiente virtual no python (Windows)
+```text
+python -m venv venv
+```
+(Linux/Mac)
+```text
+python3 -m venv venv
+```
+Ative o ambiente virtual (Windows)
+```text
+venv\Scripts\activate
+```
+(Linux/Mac)
+```text
+source venv/bin/activate
+```
+Instale as dependências do projeto
+```text
+pip install -r requirements.txt
+```
+Conecte sua WebCam, o projeto depende dela  
+Execute o projeto com:
+```text
+python main.py
+```
+
 Essas torres funcionarão em **parceria com a Defesa Civil** e empresas de telecomunicação, que cederão parte de sua rede para a operação do sistema.
 
 ### 🔄 Fluxo de Comunicação
