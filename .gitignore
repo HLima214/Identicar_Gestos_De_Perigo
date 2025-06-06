@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar
+*.rar
+*.h5
+*.csv
+*.db
